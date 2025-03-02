@@ -1,0 +1,25 @@
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: black;
+  color: white;
+}
+.links {
+  width: 500px;
+  color: white;
+}
+.ullink {
+  color: white;
+  display: flex;
+  justify-content: space-evenly;
+  text-decoration: none;
+}
+.icons {
+  width: 100px;
+  display: flex;
+  justify-content: space-around;
+}
+Link {
+  color: white;
+}
